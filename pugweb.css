@@ -3,5 +3,7 @@ h1 {
 }
 form {
   text-align: center;
-  border: 5px inset bisque;
+  border-width: 5px;
+  border-style: inset;
+  border-color: bisque;
 }
