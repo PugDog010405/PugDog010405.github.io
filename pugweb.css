@@ -4,6 +4,9 @@ h1 {
 form {
   border-width: 5px;
   border-style: inset;
-  border-color: black;
+  border-color: #bfbfbf;
   width: 108px;
+}
+input {
+  background-color: #4CAF50;
 }
